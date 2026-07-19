@@ -42,7 +42,7 @@ Every choice is logged. Every escape has a cost. Will you make it out alive — 
 ---
 
 ## 📁 Project Structure
-the-price-of-freedom/
+the-price-of-freedom
 ├── index.html
 ├── style.css
 └── script.js
